@@ -1,7 +1,7 @@
 streamlit>=1.43.2
-zhipuai>=2.1.5
+zhipuai>=2.1.5.20250106 
 langchain-core>=0.2.43
-langchain-zhipu>=4.1.8
+langchain-zhipu>=2.1.5.20250106 
 langchain-chroma>=0.2.2
 chromadb>=0.6.3
 python-dotenv>=1.0.1
