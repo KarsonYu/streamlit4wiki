@@ -4,3 +4,4 @@ langchain-core>=0.2.43
 langchain-zhipu>=4.1.8
 langchain-chroma>=0.2.2
 python-dotenv>=1.0.1
+chromadb>=0.5.15
