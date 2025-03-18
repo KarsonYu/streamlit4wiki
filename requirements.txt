@@ -1,0 +1,8 @@
+streamlit>=1.28.0
+zhipuai>=2.0.0
+langchain-core>=0.1.0
+langchain-zhipu>=0.0.3
+langchain-chroma>=0.0.1
+chromadb>=0.4.18
+python-dotenv>=1.0.0
+typings>=3.10.0
